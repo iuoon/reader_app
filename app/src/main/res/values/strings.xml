@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">俞觅</string>
+    <string name="app_home">首页</string>
+    <string name="app_tick">消息</string>
+    <string name="app_my">我&#160;&#160;&#160;&#160;的</string>
+    <string name="search_text">搜&#160;索</string>
+    <string name="recommendation_text">推&#160;荐</string>
+    <string name="note_text">日&#160;&#160;记</string>
+    <string name="reader_text">阅&#160;&#160;读</string>
+    <string name="movie_text">电&#160;&#160;影</string>
+    <string name="mango_text">动&#160;&#160;漫</string>
+    <string name="game_text">游&#160;&#160;戏</string>
+    <string name="music_text">音&#160;&#160;乐</string>
+    <string name="login_text">登&#160;&#160;&#160;&#160;录</string>
+    <string name="register_text">注&#160;&#160;&#160;&#160;册</string>
+</resources>
